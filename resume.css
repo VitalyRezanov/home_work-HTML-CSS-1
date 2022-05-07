@@ -1,0 +1,39 @@
+
+h1 { 
+    opacity:0.9;
+    text-align: center;
+    font-size:35pt;
+    font-family:cursive;
+    position:absolute;
+    left:400px;
+    color: #000000;
+}
+table.information {
+    color:#000000;
+    opacity:0.9;
+    font-size:14pt;
+    font-family:cursive;
+    font-weight: 900;
+    position: absolute;
+    left: 270px;
+    top: 240px;
+    height: 200px;
+}
+img.mainphoto {
+    position:absolute;
+    left: 730px;
+    top: 200px;
+    width: 200px;
+}
+img.clipBoard {
+    position:absolute;
+    left: 250px;
+    top: 110px;
+    width: 500px;
+    height: 630px;
+}
+body {
+    background-image: url("fon.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
